@@ -1,0 +1,12 @@
+{
+    "Name": "WymanCarrots",
+    "Author": "Wyman Ng",
+    "Version": "1.0.2",
+    "Description": "adds carrots",
+    "UniqueID": "Wyman.WymanCarrots",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+      }
+  }

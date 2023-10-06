@@ -1,0 +1,19 @@
+{
+    "Name": "Carrot",
+    "Price": 50,
+    "Description": "Orange crunchy and yummy!",
+    "Category": "Vegetable",
+    "Edibility": 11,
+    "EdibleIsDrink": false,
+    "IsColored": false,
+    "GiftTastes":
+            {
+                   "Love": [],
+                   "Like": [],
+                  "Neutral": ["Harvey", "Sebastian", "Abigail", "Maru", "Marnie", "Willy", "Jodi", "Pierre", "Alex", "Shane", "Sam", "Haley", "Emily", "Abigail",
+                   “Krobus”, “Pam”, “Sandy”, “Lewis”, “Linus”, “Clint”, “Evelyn”, “Robin”, “Elliott”, “Leah”,
+                    "Dwarf", "Leo", "Kent", "George", "Demetrius", "Caroline", "Jas", "Vincent", "Gus", "Wizard"],
+                   "Dislike": [],
+                   "Hate": []
+        }	
+}
