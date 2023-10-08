@@ -7,7 +7,7 @@
 	"SeedSellPrice": 25,
 	"CropType": "Normal",
 	"Seasons": ["spring"],
-	"Phases": [1,1,1,1],
+	"Phases": [1,1,1,1,1],
 	"RegrowthPhase": -1,
 	"HarvestWithScythe": false,
 	"TrellisCrop": false,
