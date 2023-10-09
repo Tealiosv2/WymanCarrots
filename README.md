@@ -1,7 +1,7 @@
 # WymanCarrots
 A simple Stardew Valley mod that adds carrots to the game.
 
-Prerequisite installs- [SMAPI](https://smapi.io/)
+Prerequisite installs- [SMAPI](https://smapi.io/) and
               [JSON assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 
 After downloading smapi and installing json assts.
